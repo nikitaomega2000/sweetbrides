@@ -4,7 +4,7 @@
 	inside ();
 	function outside (){
 		echo "Внешняя функция";
-		function (){
+		function inside (){
 			echo "Внутренняя функция";
 		}
 	}
