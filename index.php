@@ -3,9 +3,10 @@
 	outside ();
 	inside ();
 	function outside (){
-		echo "Внешняя функция";
+		echo "Внешняя функция<br/>";
 		function inside (){
-			echo "Внутренняя функция";
+			outside ();
+			echo "Внутренняя функция<br/>";
 		}
 	}
 ?>
