@@ -2,6 +2,6 @@
 	phpinfo();
 	outside ();
 	function outside (){
-		echo "Ð’Ð½ÐµÑˆÐ½ÑÑ Ñ„ÑƒÐ½ÐºÑ†Ð¸Ñ";
+		echo "÷ÎÅÛÎÑÑ ÆÕÎËÃÉÑ";
 	}
 ?>
