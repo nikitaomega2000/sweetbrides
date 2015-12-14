@@ -8,7 +8,7 @@
 			echo "Внутренняя функция<br/>";
 		}
 	}
-	function inside (){
-		echo "Внутренняя функция<br/>";
-	}
+//	function inside (){
+//		echo "Внутренняя функция<br/>";
+//	}
 ?>
