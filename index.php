@@ -6,7 +6,6 @@
 		echo "Внешняя функция<br/>";
 		function inside (){
 			echo "Внутренняя функция<br/>";
-			outside ();
 		}
 	}
 ?>
