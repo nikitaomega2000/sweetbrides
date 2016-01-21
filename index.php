@@ -1,6 +1,6 @@
 <?php
 //	phpinfo();
-	outside ();
+//	outside ();
 	inside ();
 	function outside (){
 		echo "Внешняя функция<br/>";
