@@ -1,16 +1,4 @@
 <?php
-//	phpinfo();
-	outside ();
-	inside ();
-	function outside (){
-		echo "Внешняя функция<br/>";
-		function inside (){
-			echo "Внутренняя функция<br/>";
-//			inside ();
-		}
-	}
-//	function inside (){
-//		echo "Внутренняя функция<br/>";
-//	}
+	var_dump $GLOBAL;
 ?>
 Bla bla bla
