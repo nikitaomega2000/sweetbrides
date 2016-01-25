@@ -11,7 +11,7 @@ fun ();
 fun ();
 fun ();
 function fun (){
-	static $a := 0;
+	static $a = 0;
 	echo $a++;
 }
 //	    echo "$test <br>";
