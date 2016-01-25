@@ -1,6 +1,7 @@
 <?php
 //	phpinfo();
-$tsest = "Test";
+ini_set('error_reporting', E_ALL);
+$test = "Test";
 global ($test);
 	function global (&$test){
 
