@@ -16,7 +16,7 @@ echo fun (8);
 echo "<br/>";
 echo fun (9);
 function fun ($a){
-	result $a * $a;
+	return $a * $a;
 	echo "Test";
 }
 //	    echo "$test <br>";
