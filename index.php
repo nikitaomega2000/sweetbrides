@@ -22,4 +22,3 @@ function fun (){
 //		echo "Внутренняя функция<br/>";
 //	}
 ?>
-Bla bla bla
