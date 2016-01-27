@@ -19,7 +19,7 @@ function fun ($a){
 //	echo "Test";
 	$a += 1;
 	return $a * $a;
-	return $a * $a * $a;
+	return $a * $a;
 //	echo "Test";
 }
 //	    echo "$test <br>";
